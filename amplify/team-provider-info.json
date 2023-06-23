@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-firstexpressapi-dev-172607-authRole",
+      "UnauthRoleArn": "arn:aws:iam::471256472939:role/amplify-firstexpressapi-dev-172607-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::471256472939:role/amplify-firstexpressapi-dev-172607-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-firstexpressapi-dev-172607-deployment",
+      "UnauthRoleName": "amplify-firstexpressapi-dev-172607-unauthRole",
+      "StackName": "amplify-firstexpressapi-dev-172607",
+      "StackId": "arn:aws:cloudformation:us-west-2:471256472939:stack/amplify-firstexpressapi-dev-172607/793a0740-1186-11ee-bdd5-06b19b738523",
+      "AmplifyAppId": "d10h5k4s9apkjh"
+    }
+  }
+}
